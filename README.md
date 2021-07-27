@@ -30,7 +30,11 @@ I'm still working on this README but until I'm finished, please, grab a coffee, 
 
 ### Me in a nuthsell
 
-I'm a software developer highly passionate about writing code following good practices and top-notch technologies. I work primarily with backend web development but I'm always involved in tech projects from many areas such as business, machine learning, computer vision, back-end and front-end. On academic side I'm a PhD student specialized in computer vision and machine learning which has a great interest in photography, games, computer graphics, AI, deep learning, data science and big data.
+I'm a software engineer specialized in Machine Learning. I have experience in Back-end development, create robust end-to-end Machine Learning and Computer Vision applications, and ETL process to target multiple systems.
+
+On the academic side, I'm a final-year Ph.D. student focused on machine learning, signal analysis, and computer vision.
+
+Here are some of my specialties: AI, machine learning, deep learning, computer vision, data science, web development, and Python. Feel free to get in touch with me.
 
 ### Development skills
 
