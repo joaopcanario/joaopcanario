@@ -36,7 +36,7 @@ On the academic side, I'm a final-year Ph.D. student focused on machine learning
 
 Here are some of my specialties: AI, machine learning, deep learning, computer vision, data science, web development, and Python. Feel free to get in touch with me.
 
-### Development skills
+### Most Relevant Skills
 
 <center>
   <table>
@@ -47,7 +47,7 @@ Here are some of my specialties: AI, machine learning, deep learning, computer v
     </tr>
     <tr>
       <td>Computer Vision</td>
-      <td>Django</td>
+      <td>FastAPI</td>
       <td>HTML</td>
     </tr>
     <tr>
@@ -57,27 +57,27 @@ Here are some of my specialties: AI, machine learning, deep learning, computer v
     </tr>
     <tr>
       <td>Deep Learning</td>
-      <td>FastAPI</td>
+      <td>Celery</td>
       <td>Javascript</td>
     </tr>
     <tr>
       <td>Pattern Recognition</td>
-      <td>Keras</td>
+      <td>Docker</td>
       <td>jQuery</td>
     </tr>
     <tr>
       <td>Python</td>
-      <td>Tensor Flow</td>
-      <td>ReactJS</td>
+      <td>PyTorch</td>
+      <td>Vue.js</td>
     </tr>
     <tr>
       <td>Pandas</td>
-      <td>Docker</td>
-      <td>VueJS</td>
+      <td>Keras</td>
+      <td> - </td>
     </tr>
     <tr>
-      <td>Numpy</td>
-      <td>MongoDB</td>
+      <td>NumPy</td>
+      <td>TensorFlow</td>
       <td> - </td>
     </tr>
   </table>
