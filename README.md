@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm still working on this README but until I'm finished, please, grab a coffee, have a seat and take a look around.
+I'm still working on this README but until I'm finished, please, grab a coffee, have a seat, take your time to check some of my [skills](#skills), and feel free to [get in touch](#contactme) with me.
 
 ### Me in a nuthsell
 
@@ -34,9 +34,7 @@ I'm a software engineer specialized in Machine Learning. I have experience in Ba
 
 On the academic side, I'm a final-year Ph.D. student focused on machine learning, signal analysis, and computer vision.
 
-Here are some of my specialties: AI, machine learning, deep learning, computer vision, data science, web development, and Python. Feel free to get in touch with me.
-
-### Most Relevant Skills
+### <a name="skills"></a> Most Relevant Skills
 
 <center>
   <table>
@@ -83,6 +81,6 @@ Here are some of my specialties: AI, machine learning, deep learning, computer v
   </table>
 </center> 
 
-### Get in touch
+### <a name="contactme"></a> Get in touch
 
 You can find my social networks, resume and lattes on my site: https://joaopcanario.com/
