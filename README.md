@@ -32,7 +32,7 @@ I'm still working on this README but until I'm finished, please, grab a coffee, 
 
 I'm a software engineer specialized in Machine Learning. I have experience in Back-end development, create robust end-to-end Machine Learning and Computer Vision applications, and ETL process to target multiple systems.
 
-On the academic side, I'm a Ph.D. final year student in Computer Science focused on machine learning, time series analysis, and computer vision.
+On the academic side, I'm a Ph.D. in Computer Science focused on machine learning, time series analysis, and computer vision.
 
 ### <a name="skills"></a> Most Relevant Skills
 
