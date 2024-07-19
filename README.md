@@ -1,14 +1,4 @@
 ![](https://komarev.com/ghpvc/?username=joaopcanario&color=blue&style=flat)
-
-<center>
-  <table>
-    <tr>
-      <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=joaopcanario&layout=compact&theme=buefy" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopcanario&hide=HTML,DIGITAL+Command+Language&layout=compact&theme=buefy" /></td>
-    </tr>   
-  </table>
-</center> 
-
 <!--
 **joaopcanario/joaopcanario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,63 +14,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
-
-I'm still working on this README but until I'm finished, please, grab a coffee, have a seat, take your time to check some of my [skills](#skills), and feel free to [get in touch](#contactme) with me.
-
-### Me in a nuthsell
-
-I'm a software engineer specialized in Machine Learning. I have experience in Back-end development, create robust end-to-end Machine Learning and Computer Vision applications, and ETL process to target multiple systems.
-
-On the academic side, I'm a Ph.D. in Computer Science focused on machine learning, time series analysis, and computer vision.
-
-### <a name="skills"></a> Most Relevant Skills
+# Hi 👋! I'm Jopa
 
 <center>
-  <table>
-    <tr>
-      <th><strong>Advanced</strong></th>
-      <th><strong>Intermediary</strong></th>
-      <th><strong>Beginner</strong></th>
-    </tr>
-    <tr>
-      <td>Computer Vision</td>
-      <td>FastAPI</td>
-      <td>HTML</td>
-    </tr>
-    <tr>
-      <td>Machine Learning</td>
-      <td>Flask</td>
-      <td>CSS</td>
-    </tr>
-    <tr>
-      <td>Deep Learning</td>
-      <td>Celery</td>
-      <td>Javascript</td>
-    </tr>
-    <tr>
-      <td>Pattern Recognition</td>
-      <td>Docker</td>
-      <td>jQuery</td>
-    </tr>
-    <tr>
-      <td>Python</td>
-      <td>PyTorch</td>
-      <td>Vue.js</td>
-    </tr>
-    <tr>
-      <td>Pandas</td>
-      <td>Keras</td>
-      <td> - </td>
-    </tr>
-    <tr>
-      <td>NumPy</td>
-      <td>TensorFlow</td>
-      <td> - </td>
-    </tr>
-  </table>
+  <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=joaopcanario&layout=compact&theme=buefy" />
 </center> 
 
-### <a name="contactme"></a> Get in touch
+### Me in a nutshell
 
-You can find my social networks, resume and lattes on my site: https://joaopcanario.com/
+I'm a passionate Software Engineer with a Ph.D. in Computer Science and a research background in AI-related fields (computer vision, deep neural networks, signal processing, and time series analysis). I leverage this expertise and extensive experience as a backend software engineer to design, develop, and deliver high-quality end-to-end ML solutions, prioritizing code quality and user experience.
+
+My expertise encompasses:
+
+- Machine Learning Engineering: Data science, model development, deployment, and monitoring;
+- Deep Learning: Proficient in building and using deep neural networks for various tasks;
+- Computer Vision: Skilled in image processing and developing computer vision applications;
+- Software Engineering: Backend development focused on code quality and maintainability;
+- Programming Languages: Python (primary) and experience with other relevant languages such as Kotlin, Elixir, and R, among others.
+
+I'm always eager to learn and collaborate on new challenges, feel free to reach out at jopacanario at gmail dot com
+
+You can find more at [joaopcanario.com](https://joaopcanario.com)
