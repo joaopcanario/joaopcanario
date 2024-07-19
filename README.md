@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi 👋! I'm Jopa
+# Hello World! I'm Jopa 👋
 
 <center>
   <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=joaopcanario&layout=compact&theme=buefy" />
