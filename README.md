@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 I'm a passionate Software Engineer with a Ph.D. in Computer Science and a research background in AI-related fields (computer vision, deep neural networks, signal processing, and time series analysis). I leverage this expertise and extensive experience as a backend software engineer to design, develop, and deliver high-quality end-to-end ML solutions, prioritizing code quality and user experience.
 
-My expertise encompasses:
+### My expertise
 
 - Machine Learning Engineering: Data science, model development, deployment, and monitoring;
 - Deep Learning: Proficient in building and using deep neural networks for various tasks;
