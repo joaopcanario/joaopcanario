@@ -15,11 +15,6 @@ Here are some ideas to get you started:
 -->
 
 # Hello World! I'm Jopa 👋
-
-<center>
-  <img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=joaopcanario&layout=compact&theme=buefy" />
-</center> 
-
 ### Me in a nutshell
 
 I'm a passionate Software Engineer with a Ph.D. in Computer Science and a research background in AI-related fields (computer vision, deep neural networks, signal processing, and time series analysis). I leverage this expertise and extensive experience as a backend software engineer to design, develop, and deliver high-quality end-to-end ML solutions, prioritizing code quality and user experience.
@@ -32,6 +27,6 @@ I'm a passionate Software Engineer with a Ph.D. in Computer Science and a resear
 - Software Engineering: Backend development focused on code quality and maintainability;
 - Programming Languages: Python (primary) and experience with other relevant languages such as Kotlin, Elixir, and R, among others.
 
-I'm always eager to learn and collaborate on new challenges, feel free to reach out at jopacanario at gmail dot com
+I'm always eager to learn and collaborate on new challenges; feel free to reach out at jopacanario at gmail dot com
 
 You can find more at [joaopcanario.com](https://joaopcanario.com)
